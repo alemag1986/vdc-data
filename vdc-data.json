@@ -140,6 +140,19 @@
     },
     {
       "month": "May",
+      "day": "17",
+      "badge": "VDC Event",
+      "badgeClass": "b-texas",
+      "title": "Velocity Drivers Club Drive",
+      "description": "Good evening Velocity-DC members.  Since we’ve not done a drive for some time now, I’m trying to gauge how many people will be interested in doing a drive this Sunday the 17 of May. Weather is holding up great so far.",
+      "location": "TBD",
+      "time": "8:00 am - 1:00 pm",
+      "spots": "Open to members",
+      "button": "RSVP",
+      "featured": true
+    },
+    {
+      "month": "May",
       "day": "23",
       "badge": "★ Official PCA",
       "badgeClass": "b-texas",
