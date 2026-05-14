@@ -76,5 +76,127 @@
                 }
             ]
         }
-    ]
+    ],
+    "calendar": [
+    {
+      "month": "May",
+      "day": "09",
+      "badge": "★ Official PCA",
+      "badgeClass": "b-texas",
+      "title": "Official PCA: LSRPCA GTG AT WEST HOUSTON PORSCHE",
+      "description": "LSRPCA GTG AT WEST HOUSTON PORSCHE",
+      "location": "11850 Katy fwy, HOUSTON, Texas",
+      "time": "8:30 am - 10:30 am",
+      "spots": "Open to members",
+      "button": "RSVP"
+    },
+    {
+      "month": "May",
+      "day": "09",
+      "badge": "★ Official PCA",
+      "badgeClass": "b-texas",
+      "title": "Official PCA: Bourbon Guided Tasting",
+      "description": "A relaxed, professionally guided tasting featuring up to six classic, affordable bourbons. We'll keep things easy going and fun...",
+      "location": "5472 W Grand Pkwy S, Richmond, TX",
+      "time": "6:30 pm - 8:30 pm",
+      "spots": "Open to members",
+      "button": "Register"
+    },
+    {
+      "month": "May",
+      "day": "12",
+      "badge": "★ Official PCA",
+      "badgeClass": "b-texas",
+      "title": "Official PCA: LSR Monthly Board Meeting",
+      "description": "Lone Star Region Monthly Board Meeting. Occurs on the 2nd Tuesday of each Month.",
+      "location": "1440 Greengrass Dr, Houston, TX",
+      "time": "6:30 pm - 8:30 pm",
+      "spots": "Open to members",
+      "button": "RSVP"
+    },
+    {
+      "month": "May",
+      "day": "16",
+      "badge": "★ Official PCA",
+      "badgeClass": "b-texas",
+      "title": "Official PCA: GTG – South East",
+      "description": "Occurs Monthly on the 3rd Saturday of each month. Southeast GTG",
+      "location": "4650 FM 2351, Friendswood, TX",
+      "time": "8:30 am - 10:00 am",
+      "spots": "Open to members",
+      "button": "RSVP"
+    },
+    {
+      "month": "May",
+      "day": "16",
+      "badge": "★ Official PCA",
+      "badgeClass": "b-texas",
+      "title": "Official PCA: GTG – South West",
+      "description": "Occurs on the 3rd Saturday of each month",
+      "location": "13025 Stiles Ln, Sugar Land, TX",
+      "time": "8:30 am - 10:00 am",
+      "spots": "Open to members",
+      "button": "RSVP"
+    },
+    {
+      "month": "May",
+      "day": "23",
+      "badge": "★ Official PCA",
+      "badgeClass": "b-texas",
+      "title": "Official PCA: GTG West",
+      "description": "Occurs on the 4th Sunday of each month",
+      "location": "3329 W Grand Pkwy N #700, Katy, TX",
+      "time": "8:00 am - 10:00 am",
+      "spots": "Open to members",
+      "button": "RSVP"
+    },
+    {
+      "month": "May",
+      "day": "23",
+      "badge": "★ Official PCA",
+      "badgeClass": "b-texas",
+      "title": "Official PCA: GTG North",
+      "description": "Occurs on the 4th Saturday of each month",
+      "location": "4526 Research Forest Dr, Woodlands, TX",
+      "time": "8:30 am - 10:00 am",
+      "spots": "Open to members",
+      "button": "RSVP"
+    },
+    {
+      "month": "May",
+      "day": "30",
+      "badge": "★ Official PCA",
+      "badgeClass": "b-texas",
+      "title": "Official PCA: Concours – Karbach",
+      "description": "Concours Event",
+      "location": "Karbach",
+      "time": "8:00 am - 5:00 pm",
+      "spots": "Open to members",
+      "button": "Register"
+    },
+    {
+      "month": "May",
+      "day": "30",
+      "badge": "★ Official PCA",
+      "badgeClass": "b-texas",
+      "title": "Official PCA: GTG – Fifth Saturday",
+      "description": "Get Together every 5th Saturday in a month.",
+      "location": "1102 Oliver Street, Houston, TX",
+      "time": "8:30 am - 11:00 am",
+      "spots": "Open to members",
+      "button": "RSVP"
+    },
+    {
+      "month": "May",
+      "day": "30",
+      "badge": "★ Official PCA",
+      "badgeClass": "b-texas",
+      "title": "Official PCA: Flat Six Social",
+      "description": "Join your fellow Porsche enthusiasts for a relaxed happy hour / evening designed to bring great people together. Wind down. Stay a while.",
+      "location": "12525 Memorial Drive #190, Houston, TX",
+      "time": "5:00 pm - 9:00 pm",
+      "spots": "Open to members",
+      "button": "Register"
+    }
+  ]
 }
