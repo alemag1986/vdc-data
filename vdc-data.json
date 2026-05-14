@@ -1,3 +1,80 @@
 {
-    "members": 44
+    "members": 44,
+    "iconic-routes": [
+        {
+            "id": "01",
+            "name": "TWISTED SISTERS",
+            "location": "Texas / Hill Country",
+            "country": "USA",
+            "description": "A famous ~100-mile motorcycle and scenic driving route in the Texas Hill Country, consisting of Ranch Roads 335, 336, and 337. It is renowned for its steep limestone canyons, sharp hairpin turns, and scenic views, with dramatic elevation changes and cliff-edge driving.",
+            "stats": [
+                {
+                    "label": "Curves",
+                    "value": "+65"
+                },
+                {
+                    "label": "Distance",
+                    "value": "~100-mile"
+                },
+                {
+                    "label": "Skill Level",
+                    "value": "All"
+                },
+                {
+                    "label": "Club Runs",
+                    "value": "Annual"
+                }
+            ]
+        },
+        {
+            "id": "02",
+            "name": "BLUEBONNET TOUR",
+            "location": "Texas / Hill Country",
+            "country": "USA",
+            "description": "A roughly 100-mile route through scenic areas near Lake Buchanan, Llano, and Burnet. The route focuses on Farm-to-Market roads with prime viewing, often ending with a social event.",
+            "stats": [
+                {
+                    "label": "Peak Time",
+                    "value": "Late March to mid-April."
+                },
+                {
+                    "label": "Distance",
+                    "value": "~100-mile"
+                },
+                {
+                    "label": "Skill Level",
+                    "value": "All"
+                },
+                {
+                    "label": "Club Tour",
+                    "value": "Annual"
+                }
+            ]
+        },
+        {
+            "id": "03",
+            "name": "DEVIL'S BACKBONE",
+            "location": "Texas / Hill Country",
+            "country": "USA",
+            "description": "This loop drive through the Texas Hill Country’s eroding Edwards Plateau, offers not only outstanding views of the 400-mile-long Balcones Fault, expansive rolling hills and curvy roads, it is peppered with ghost stories and apparitions of Spanish monks, Native Americans, Confederate soldiers and others.",
+            "stats": [
+                {
+                    "label": "Full Route",
+                    "value": "~400 mi"
+                },
+                {
+                    "label": "Club Run",
+                    "value": "2 days"
+                },
+                {
+                    "label": "Skill Level",
+                    "value": "All"
+                },
+                {
+                    "label": "Club Runs",
+                    "value": "Annual"
+                }
+            ]
+        }
+    ]
 }
